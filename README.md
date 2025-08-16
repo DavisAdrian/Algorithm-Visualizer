@@ -2,7 +2,7 @@
 
 A real-time interactive algorithm visualization tool built with C++ and SFML 3.0. Watch sorting algorithms come to life with animated bars, real-time statistics, and interactive controls.
 
-![Algorithm Visualizer Demo](https://img.shields.io/badge/C%2B%2B-17-blue.svg) ![SFML](https://img.shields.io/badge/SFML-3.0.1-green.svg) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)
+![Algorithm Visualizer Demo]() ![SFML](https://img.shields.io/badge/SFML-3.0.1-green.svg) ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg)
 
 ## Features
 
@@ -33,7 +33,7 @@ A real-time interactive algorithm visualization tool built with C++ and SFML 3.0
 
 ## Screenshots
 
-*Add screenshots of your visualizer in action here*
+
 
 ## Installation
 
